@@ -1,4 +1,5 @@
-Project Description
+<h2>Project Description</h2>
+
 As the climate changes around the world, the ability to predict changing weather is becoming more and more important.
 
 In this project you will work on predicting the mean temperature in London. You will import, preprocess, and explore historical weather data and automate the training and evaluation of multiple machine learning models. This will be setup in an automated workflow using functions, utilizing methods from sklearn and MLflow.
